@@ -3,8 +3,8 @@
   "name": "Jonalandia Modpack",
   "author": "Jonalandia",
   "description": "Modpack hospedado no servidor. Edite este arquivo para publicar novas versões sem recompilar o launcher.",
-  "icon": "",
-  "background": "",
+  "icon": "avares://Jonalandia/Assets/logo.png",
+  "background": "avares://Jonalandia/Assets/bg1.png",
   "defaultVersion": "1.9.3",
   "versions": [
     {
