@@ -1,0 +1,29 @@
+{
+  "id": "jonalandia",
+  "name": "Jonalandia Modpack (teste local)",
+  "author": "Jonalandia",
+  "description": "Manifest de TESTE local. Use com settings.json -> modpackSourceKind: File e modpackManifestPath apontando para este arquivo.",
+  "icon": "",
+  "background": "",
+  "defaultVersion": "1.9.3",
+  "versions": [
+    {
+      "version": "1.9.3",
+      "minecraftVersion": "1.16.5",
+      "modLoader": "Forge",
+      "loaderVersion": "36.2.42",
+      "javaVersion": 8,
+      "recommendedRamMb": 4096,
+      "changelog": "Teste local do zip unico.",
+      "files": [
+        {
+          "path": "modpack.zip",
+          "url": "file:///D:/portifolios/BrasilLauncher.Base/BrasilLauncher.Avalonia/Examples/ServerModpack/modpack.zip",
+          "size": 972,
+          "sha1": "aa775e10045239fdaff4205691b1d489af335cf8",
+          "isArchive": true
+        }
+      ]
+    }
+  ]
+}

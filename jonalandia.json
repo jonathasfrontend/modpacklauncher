@@ -1,0 +1,29 @@
+{
+  "id": "jonalandia",
+  "name": "Jonalandia Modpack",
+  "author": "Jonalandia",
+  "description": "Modpack hospedado no servidor. Edite este arquivo para publicar novas versões sem recompilar o launcher.",
+  "icon": "",
+  "background": "",
+  "defaultVersion": "1.9.3",
+  "versions": [
+    {
+      "version": "1.9.3",
+      "minecraftVersion": "1.16.5",
+      "modLoader": "Forge",
+      "loaderVersion": "36.2.42",
+      "javaVersion": 8,
+      "recommendedRamMb": 4096,
+      "changelog": "Versao inicial hospedada no servidor.",
+      "files": [
+        {
+          "path": "modpack.zip",
+          "url": "https://raw.githubusercontent.com/SEU-USUARIO/modpack/main/modpack.zip",
+          "size": 431634750,
+          "sha1": "81918b149f83515e54fbb8b9e9d5e16823aadec9",
+          "isArchive": true
+        }
+      ]
+    }
+  ]
+}
