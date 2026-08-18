@@ -21,7 +21,7 @@
           "path": "modpack.zip",
           "url": "https://github.com/jonathasfrontend/modpacklauncher/releases/download/v1.9.3/modpack.zip",
           "size": 431634750,
-          "sha1": "81918b149f83515e54fbb8b9e9d5e16823aadec9",
+          "sha1": "81918B149F83515E54FBB8B9E9D5E16823AADEC9",
           "isArchive": true
         }
       ]
@@ -39,8 +39,8 @@
         {
           "path": "modpack.zip",
           "url": "https://github.com/jonathasfrontend/modpacklauncher/releases/download/v1.9.4/modpack_v_1.9.4.zip",
-          "size": 431634750,
-          "sha1": "81918b149f83515e54fbb8b9e9d5e16823aadec9",
+          "size": 431220917,
+          "sha1": "DDBD20B4FA09BF33315B52CB67E69EC89A39F3DE",
           "isArchive": true
         }
       ]
