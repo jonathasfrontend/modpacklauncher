@@ -7,11 +7,12 @@
   "background": "avares://Jonalandia/Assets/bg1.png",
   "defaultVersion": "1.9.3",
   "versions": [
-    {
+        {
       "version": "1.9.3",
       "minecraftVersion": "1.16.5",
       "modLoader": "Forge",
       "loaderVersion": "36.2.42",
+      "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-installer.jar",
       "javaVersion": 8,
       "recommendedRamMb": 4096,
       "changelog": "Versao inicial hospedada no servidor.",
