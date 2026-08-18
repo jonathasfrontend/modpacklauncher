@@ -38,7 +38,7 @@
       "files": [
         {
           "path": "modpack.zip",
-          "url": "https://github.com/jonathasfrontend/modpacklauncher/releases/download/v1.9.4/modpack.zip",
+          "url": "https://github.com/jonathasfrontend/modpacklauncher/releases/download/v1.9.4/modpack_v_1.9.4.zip",
           "size": 431634750,
           "sha1": "81918b149f83515e54fbb8b9e9d5e16823aadec9",
           "isArchive": true
