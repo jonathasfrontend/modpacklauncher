@@ -3,7 +3,7 @@
   "name": "Jonalandia Modpack",
   "author": "Jonathas Oliveira - Team Jonalandia",
   "description": "Modpack Jonalandia.",
-  "icon": "avares://Jonalandia/Assets/logo.png",
+  "icon": "avares://Jonalandia/Assets/icon.png",
   "background": "avares://Jonalandia/Assets/bg1.png",
   "defaultVersion": "1.9.3",
   "versions": [
