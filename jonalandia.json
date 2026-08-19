@@ -25,7 +25,8 @@
           "isArchive": true
         }
       ]
-    },
+    }
+    ,
     {
       "version": "1.9.4",
       "minecraftVersion": "1.16.5",
@@ -37,10 +38,30 @@
       "changelog": "Versao inicial hospedada no servidor.",
       "files": [
         {
-          "path": "modpack.zip",
+          "path": "modpack_v_1.9.4.zip",
           "url": "https://github.com/jonathasfrontend/modpacklauncher/releases/download/v1.9.4/modpack_v_1.9.4.zip",
           "size": 431220917,
           "sha1": "DDBD20B4FA09BF33315B52CB67E69EC89A39F3DE",
+          "isArchive": true
+        }
+      ]
+    }
+    ,
+    {
+      "version": "1.9.5",
+      "minecraftVersion": "1.16.5",
+      "modLoader": "Forge",
+      "loaderVersion": "36.2.42",
+      "forgeInstallerUrl": "https://maven.minecraftforge.net/net/minecraftforge/forge/1.16.5-36.2.42/forge-1.16.5-36.2.42-installer.jar",
+      "javaVersion": 8,
+      "recommendedRamMb": 4096,
+      "changelog": "Versao inicial hospedada no servidor.",
+      "files": [
+        {
+          "path": "modpack_v_1.9.5.zip",
+          "url": "https://github.com/jonathasfrontend/modpacklauncher/releases/download/v1.9.5/modpack_v_1.9.5.zip",
+          "size": 432409695,
+          "sha1": "CED1C19F5445F0C9ADC095F423F4F47A54F96061",
           "isArchive": true
         }
       ]
