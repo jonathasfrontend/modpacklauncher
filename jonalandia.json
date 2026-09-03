@@ -69,7 +69,7 @@
     ,
     {
       "version": "1.9.6",
-      "minecraftVersion": "1.16.5",
+      "minecraftVersion": "1.21.1",
       "modLoader": "Fabric",
       "loaderVersion": "0.19.5",
       "forgeInstallerUrl": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.19.5/1.1.2/server/jar",
