@@ -72,7 +72,7 @@
       "minecraftVersion": "1.21.1",
       "modLoader": "Fabric",
       "loaderVersion": "0.19.5",
-      "forgeInstallerUrl": "https://meta.fabricmc.net/v2/versions/loader/1.21.1/0.19.5/1.1.2/server/jar",
+      "forgeInstallerUrl": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.2/fabric-installer-1.1.2.jar",
       "javaVersion": 21,
       "recommendedRamMb": 4096,
       "changelog": "Versao inicial hospedada no servidor.",
