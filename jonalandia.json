@@ -148,7 +148,7 @@
     }
     ,
     {
-      "version": "1.9.10",
+      "version": "1.9.11",
       "minecraftVersion": "1.21.1",
       "modLoader": "Fabric",
       "loaderVersion": "0.19.5",
@@ -158,10 +158,10 @@
       "changelog": "Versao inicial hospedada no servidor.",
       "files": [
         {
-          "path": "modpack_v_1.9.10.zip",
-          "url": "https://github.com/jonathasfrontend/modpacklauncher/releases/download/v2.0.0/modpack_v_1.9.10.zip",
-          "size": 320493407,
-          "sha1": "4A9A55AB611C5F3861D083BB9E393B381A65557A",
+          "path": "modpack_v_1.9.11.zip",
+          "url": "https://github.com/jonathasfrontend/modpacklauncher/releases/download/v2.0.1/modpack_v_1.9.11.zip",
+          "size": 335786682,
+          "sha1": "D426E7E65123D37359C9E3CE7C047FC754D0AB49",
           "isArchive": true
         }
       ]
