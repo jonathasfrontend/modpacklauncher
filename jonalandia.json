@@ -206,5 +206,25 @@
         }
       ]
     }
+    ,
+    {
+      "version": "1.9.13",
+      "minecraftVersion": "1.21.1",
+      "modLoader": "Fabric",
+      "loaderVersion": "0.19.5",
+      "forgeInstallerUrl": "https://maven.fabricmc.net/net/fabricmc/fabric-installer/1.1.2/fabric-installer-1.1.2.jar",
+      "javaVersion": 21,
+      "recommendedRamMb": 6144,
+      "changelog": "Versao inicial hospedada no servidor.",
+      "files": [
+        {
+          "path": "modpack_v_1.9.13.zip",
+          "url": "https://github.com/jonathasfrontend/modpacklauncher/releases/download/v2.0.3/modpack_v_1.9.13.zip",
+          "size": 408236536,
+          "sha1": "B923B86815784B51B62BD88F9D06294D9F5B2733",
+          "isArchive": true
+        }
+      ]
+    }
   ]
 }
